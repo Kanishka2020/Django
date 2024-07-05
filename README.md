@@ -17,3 +17,5 @@ pip install django
 ```
 python manage.py runserver
 ```
+
+![image](https://github.com/Kanishka2020/Django/assets/58786546/4adcf0eb-b6bc-48bb-91f2-5d7e4c2ecf77)
